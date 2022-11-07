@@ -1,0 +1,14 @@
+name: EffectSwap2
+version: '${project.version}'
+main: effectswap2.effectswap2.EffectSwap2
+api-version: 1.18
+authors: [ x3bla, Pyra0 ]
+description: overhauled version of Pyra0's plugin, for B3n
+commands:
+  reloadconfig:
+    description: Reloads the plugin's config
+  debug:
+    description: Displays the variables for debugging
+  withdraw:
+    description: Withdraws a positive EffectSwap.effect
+
